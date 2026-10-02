@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<rect width="400" height="300" fill="#eef7f1"/><circle cx="200" cy="140" r="92" fill="white" stroke="#123d24" stroke-width="7"/>
+<path d="M200 78l30 22-11 36h-38l-11-36zM128 125l-35 8m48 64l-22 28m91-28l22 28m31-72l35 8" fill="none" stroke="#123d24" stroke-width="8"/>
+<path d="M200 136l-30 22 11 36h38l11-36z" fill="#123d24"/>
+<text x="200" y="280" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold" fill="#123d24">BOLA</text></svg>
